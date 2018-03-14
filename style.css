@@ -1,0 +1,22 @@
+video{
+	width: 100vw;
+	margin: 0 auto;
+	position: fixed;
+	z-index: 1;
+}
+
+body {
+	background: black;
+}
+
+
+@font-face {
+	font-family: "ff";
+	src: url(AtlasGrotesk-Light.otf);
+}
+img{
+	position: fixed;
+	z-index: 10;
+	width: 100vw;
+	margin: 0 auto;
+}
